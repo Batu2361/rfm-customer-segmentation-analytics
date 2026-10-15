@@ -1,5 +1,12 @@
-# 🇬🇧 English Version
+<div align="center">
+  <a href="#english-version">🇬🇧 English</a> | <a href="#deutsche-version">🇩🇪 Deutsch</a>
+</div>
 
+---
+
+<a id="english-version"></a>
+
+# 🇬🇧 English Version
 # 📊 E-Commerce RFM Customer Segmentation & Revenue Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -88,7 +95,7 @@ Retaining existing customers and mitigating churn is critical for sustainable e-
 
 
 ---
-
+<a id="deutsche-version"></a>
 # 🇩🇪 Deutsche Version
 
 # 📊 E-Commerce RFM Kunden-Segmentierung & Umsatzanalyse
