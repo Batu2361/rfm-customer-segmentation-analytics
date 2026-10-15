@@ -176,14 +176,3 @@ git clone [https://github.com/Batu2361/rfm-customer-segmentation-analytics.git](
 
 ```
 
----
-
-## 👨‍💻 Autor
-
-**Batuhan Cöglan**
-
-* **Tableau Public:** [Profil](https://www.google.com/search?q=https://public.tableau.com/app/profile/batuhan.coglan)
-
-```
-
-```
