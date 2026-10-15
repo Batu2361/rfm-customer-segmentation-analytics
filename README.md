@@ -68,7 +68,6 @@ Retaining existing customers and mitigating churn is critical for sustainable e-
    ```bash
    git clone [https://github.com/Batu2361/rfm-customer-segmentation-analytics.git](https://github.com/Batu2361/rfm-customer-segmentation-analytics.git)
 
-``
 
 2. **Extract Data & Run Notebook:**
 * Unzip `cleaned_online_retail_II.csv.zip`.
