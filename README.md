@@ -66,7 +66,7 @@ Retaining existing customers and mitigating churn is critical for sustainable e-
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/BatuhanCoglan/rfm-customer-segmentation-analytics.git](https://github.com/BatuhanCoglan/rfm-customer-segmentation-analytics.git)
+   git clone [https://github.com/Batu2361/rfm-customer-segmentation-analytics.git](https://github.com/BatuhanCoglan/rfm-customer-segmentation-analytics.git)
 
 ```
 
@@ -151,7 +151,7 @@ Die Bindung bestehender Kunden und die Reduzierung von Abwanderung (Churn) sind 
 
 1. **Repository klonen:**
 ```bash
-git clone [https://github.com/BatuhanCoglan/rfm-customer-segmentation-analytics.git](https://github.com/BatuhanCoglan/rfm-customer-segmentation-analytics.git)
+git clone [https://github.com/Batu2361/rfm-customer-segmentation-analytics.git](https://github.com/BatuhanCoglan/rfm-customer-segmentation-analytics.git)
 
 ```
 
