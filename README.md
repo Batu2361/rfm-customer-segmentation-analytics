@@ -1,10 +1,3 @@
-<img width="1422" height="844" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/5bd5138e-6135-4d07-9aad-241edba25783" />
-<div align="center">
-  <a href="#-english-version">🇬🇧 English</a> | <a href="#-deutsche-version">🇩🇪 Deutsch</a>
-</div>
-
----
-
 # 🇬🇧 English Version
 
 # 📊 E-Commerce RFM Customer Segmentation & Revenue Analysis
