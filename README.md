@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <a href="#-english-version">🇬🇧 English</a> | <a href="#-deutsche-version">🇩🇪 Deutsch</a>
 </div>
