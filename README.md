@@ -1,3 +1,4 @@
+<img width="1422" height="844" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/5bd5138e-6135-4d07-9aad-241edba25783" />
 <div align="center">
   <a href="#-english-version">🇬🇧 English</a> | <a href="#-deutsche-version">🇩🇪 Deutsch</a>
 </div>
@@ -106,7 +107,9 @@ Ein End-to-End Datenanalyse-Projekt zur Kategorisierung von über **5.800 E-Comm
 ---
 
 ## 🖼️ Dashboard Vorschau
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f33b6ae1-9c38-48a4-80ff-f8b63d1bb73e" alt="E-Commerce RFM Dashboard Preview" width="100%">
+</div>
 ---
 
 ## 🎯 Geschäftsproblem & Zielsetzung
