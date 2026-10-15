@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project categorizing over 5,800 e-commerce customers into actionable segments using **RFM (Recency, Frequency, Monetary)** modeling. The analysis combines Python data cleaning, SQL query-based segmentation, and an interactive Tableau Public dashboard.
 
-🔗 **[View Live Interactive Tableau Dashboard]([DEIN_TABLEAU_PUBLIC_LINK_HIER_EINFUEGEN](https://public.tableau.com/app/profile/batuhan.coglan/viz/E-CommerceRFMCustomerSegmentationRevenueAnalysis/Dashboard1?publish=yes))**
+🔗 **[View Live Interactive Tableau Dashboard](https://public.tableau.com/app/profile/batuhan.coglan/viz/E-CommerceRFMCustomerSegmentationRevenueAnalysis/Dashboard1?publish=yes)**
 
 ---
 
